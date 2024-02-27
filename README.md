@@ -3,52 +3,23 @@
   
   <h4>Tic Tac Toe is light and simple puzzle game also known as noughts and crosses, X and O or 3 in a row. Game fully playable offline with computer and also can be played for two players on same device or online. Online multiplayer let you to duel your friends or strangers around the world.</h4>
 
-   <h3 align="Right">V1.2.7.29</h3>
-   
-   
-- ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
-&
-<a href="https://t.me/banrossyn">Telegram</a>. 
+ <div align="center">
 
-> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
+<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
+<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-blue"></a>
+
+</div>
+
 # 
-<p align="center">
-    <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png"/>
-    </a>
-  </p>
-<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
 
-# What's new:
-    😃 Bug Fixed.
-    ⬇️ Fast Loading.
-    ☄️ Improved user experience.
      
-# Latest Source Code Available at Low Price.
 
-For any inquiry, app support or app customization contact us at
+ # 
 
-–  banrossyn@gmail.com
-
-–  https://wa.me/+919694260426/
-
-–  https://t.me/banrossyn/
-
-# Note:
-This source code will be offical given directly through the developer. You will not find this on any selling website. To buy the source code, you have to directly connect with the developer. For this, payment will have to be made through the method given by the developer, after payment you will be given the source code through mail. Any kind of change in the app will be charged separately. After purchasing the app, you will be helped till it is published.
-
-Regars
-
-Rossyn
-
- # Download Now:
-<p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.tictactoeonline">
-      <img src="https://user-images.githubusercontent.com/97843190/170808265-270075d7-678d-412b-aa04-65a7759438e2.png"  />
-    </a>
-  </p>
   <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.tictactoeonline">
+    <a href="">
       <img src="https://play-lh.googleusercontent.com/qq_V4V8iP8CLCIRMj8gk8n0TJ8Bd6uPezio14PaHKcraFPvxHknCqaXtlDnzv3HpA8c=w2560-h1440" width="1280" />
     </a>
   </p>
@@ -87,31 +58,6 @@ Do not hesitate to download and play most advanced Tic Tac Toe game. Please leav
 
 
 
-# Data safety:
-No data shared with third parties:- This app doesn't share user data with other companies or organisations.
-  
-No data collected:- This app doesn’t collect user data
-
-
-<h3 align="left">Updated on</h3>
-Jul 29, 2022
-
-<h3 align="left">Version</h3>
-1.2.7.29
-
-<h3 align="left">Requires Android</h3>
-7.0 and up
-
-<h3 align="left">Downloads</h3>
-1,000+ downloads
-
-<h3 align="left">Content rating</h3>
-Rated for 3+ •
-
-<h3 align="left">Released on</h3>
-Jul 24, 2022
-
-  
 
 
 # Screenshots:
@@ -142,24 +88,3 @@ Jul 24, 2022
     </a>
   </p>
   
-# Rate the app:
-Please consider rating the app if you are satisfied with the product. Thank you.
-       
-# License: 
- ```
-  Copyright 2020 Rossyn
-  Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
-  See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
-  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
-  you may not use this file except in compliance with the License. 
-  You may obtain a copy of the License at 
-  
-  http://www.apache.org/licenses/LICENSE-2.0 
-  
-  Unless required by applicable law or agreed to in writing, software distributed under 
-  the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
-  either express or implied. See the License for the specific language governing permissions and limitations under the License." ```
- 
-  
-
- 
